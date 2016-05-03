@@ -16,6 +16,10 @@ blockquote {
   font-size: 28px;
 }
 
+.footprint {
+  font-size: 40%;
+}
+
 .slide {
   color: white;
   padding: 20px;
