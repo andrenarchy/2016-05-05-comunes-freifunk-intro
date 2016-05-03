@@ -68,10 +68,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient5056"
        id="linearGradient5062"
-       x1="60"
-       y1="717.36218"
-       x2="10"
-       y2="667.36218"
+       x1="60.738972"
+       y1="710.03333"
+       x2="15.738971"
+       y2="665.03333"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-10.738971,-22.671161)" />
     <linearGradient
@@ -92,9 +92,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.83806911"
-     inkscape:cx="257.87924"
-     inkscape:cy="91.305605"
+     inkscape:zoom="1.6761382"
+     inkscape:cx="68.812014"
+     inkscape:cy="228.27725"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -116,7 +116,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -302,11 +302,6 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 290,532.36216 -360,0"
-       id="path4923"
-       inkscape:connector-curvature="0" />
-    <path
        style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:5, 5;stroke-dashoffset:0;stroke-opacity:1"
        d="M 142.78979,932.10837 255.07634,881.40452"
        id="path4921-4"
@@ -338,7 +333,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5062);stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:5, 5;stroke-dashoffset:0;stroke-opacity:1"
-       d="M -4.2696375,642.69796 98.386362,737.69529"
+       d="M 2.2930671,639.1183 97.789752,734.71224"
        id="path4921-4-5-34"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
