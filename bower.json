@@ -16,6 +16,7 @@
     "angular-slidedeck": "^0.2.5",
     "bootstrap": "^3.3.4",
     "fontawesome": "^4.3.0",
-    "angular-highlightjs": "^0.6.1"
+    "angular-highlightjs": "^0.6.1",
+    "roboto-fontface": "^0.4.5"
   }
 }
