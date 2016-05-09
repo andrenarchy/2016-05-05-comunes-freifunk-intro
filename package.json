@@ -1,0 +1,22 @@
+{
+  "name": "2016-05-05-comunes-freifunk-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrenarchy/2016-05-05-comunes-freifunk-intro.git"
+  },
+  "author": "André Gaul <andre@gaul.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrenarchy/2016-05-05-comunes-freifunk-intro/issues"
+  },
+  "homepage": "https://github.com/andrenarchy/2016-05-05-comunes-freifunk-intro#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
