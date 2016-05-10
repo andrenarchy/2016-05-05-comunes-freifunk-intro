@@ -1,4 +1,6 @@
-# 2016-05-05-comunes-freifunk-intro
+# Comunes Freifunk slides
+
+Slides for a talk at the [Comunes](http://encuentrocomunes.com/#/) conference in Buenos Aires.
 
 [Watch the slides!](https://andrenarchy.github.io/2016-05-05-comunes-freifunk-intro)
 
